@@ -1,3 +1,5 @@
 *.tmp
 /target
 /build
+/.nb-gradle/
+/ohtuvarasto/.nb-gradle/
